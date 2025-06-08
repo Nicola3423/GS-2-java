@@ -2,6 +2,11 @@
 
 Este repositório contém os controllers do sistema de segurança urbana, desenvolvido em Spring Boot, responsáveis por gerenciar as funcionalidades de Guarda Civil e Rotas Seguras.
 
+## Integrantes:
+- Igor Akira Bortolini Tateishi RM:554227 
+- Nicola Monte Cravo Garofalo RM:553991 
+- Willyam Santos Souza RM:554244 
+
 ## 📋 Sobre o Projeto
 
 O sistema permite o gerenciamento de informações da Guarda Civil e o cadastro de rotas seguras, proporcionando uma interface web para operações CRUD (Create, Read, Update, Delete).
