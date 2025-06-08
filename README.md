@@ -7,6 +7,10 @@ Este repositório contém os controllers do sistema de segurança urbana, desenv
 - Nicola Monte Cravo Garofalo RM:553991 
 - Willyam Santos Souza RM:554244 
 
+## Link do video:
+- https://youtu.be/FUXBZafpDmw
+
+
 ## 📋 Sobre o Projeto
 
 O sistema permite o gerenciamento de informações da Guarda Civil e o cadastro de rotas seguras, proporcionando uma interface web para operações CRUD (Create, Read, Update, Delete).
